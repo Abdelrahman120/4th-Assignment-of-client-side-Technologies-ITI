@@ -1,0 +1,1 @@
+this is the forth Assignment in ITI client side Technologies in training in ITI ,in it i have made some tasks using HTML ,CSS and JS , that making calculator using array ,loops and functions , and another task that make reverse of text , and task to get the day name for input date , and another tasks for making check on the input from user.
